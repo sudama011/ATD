@@ -1,0 +1,5 @@
+Users 1000 20 true
+Orders 5000  40 false
+Products 2000 25 true
+Categories 100 50 false
+Suppliers 200 30 true
